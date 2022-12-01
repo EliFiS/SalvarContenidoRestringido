@@ -1,9 +1,8 @@
 #Tg:sources_cods/Am_RoBots
-#Github.com/8769Anurag
+#Github.com/EliFiS
 
 """
-Plugin for both public & private channels!
-"""
+¡Complemento para canales públicos y privados!"""
 
 import time, os, asyncio
 
